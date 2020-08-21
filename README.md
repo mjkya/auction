@@ -1,4 +1,2 @@
-# MEN 게시판
-이 저장소의 코드는
-[http://a-mean-blog.com/ko/blog/Node-JS-첫걸음/게시판-만들기](http://a-mean-blog.com/ko/blog/Node-JS-첫걸음/게시판-만들기)에서 작성되었습니다.
-<br>
+# Nexon Maple Story Auction
+메이플스토리 메이플 옥션 편의성 측면 개선 
